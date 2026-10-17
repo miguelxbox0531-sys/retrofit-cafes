@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondo">#FFF3EAE0</color>
+    <color name="tarjeta">#FFFFFBF7</color>
+    <color name="crema">#FFD7C4B0</color>
+    <color name="cafe_medio">#FF8D6E63</color>
+    <color name="cafe_oscuro">#FF4E342E</color>
+    <color name="texto">#FF5D4037</color>
+</resources>
